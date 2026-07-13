@@ -6,10 +6,9 @@ Official release repository for **Portfolio Tracker 2.0** — a Windows desktop 
 
 | Version | Release date | Installer |
 |---------|--------------|-----------|
-| **v2.4.2** (latest) | 2026-07-13 | [PortfolioTracker-v2.4.2-Setup.exe](https://github.com/davidshuvalov/portfolio-tracker-releases/releases/download/v2.4.2/PortfolioTracker-v2.4.2-Setup.exe) |
-| v2.0.0 (initial 2.0 release) | 2026-07-05 | [PortfolioTracker-v2.0.0-Setup.exe](https://github.com/davidshuvalov/portfolio-tracker-releases/releases/download/v2.0.0/PortfolioTracker-v2.0.0-Setup.exe) |
+| **v2.0.0** | 2026-07-13 | [PortfolioTracker-v2.0.0-Setup.exe](https://github.com/davidshuvalov/portfolio-tracker-releases/releases/download/v2.0.0/PortfolioTracker-v2.0.0-Setup.exe) |
 
-Browse all releases on the [Releases](https://github.com/davidshuvalov/portfolio-tracker-releases/releases) page.
+Download from the [Releases](https://github.com/davidshuvalov/portfolio-tracker-releases/releases) page.
 
 ## System requirements
 
@@ -19,7 +18,7 @@ Browse all releases on the [Releases](https://github.com/davidshuvalov/portfolio
 
 ## Install
 
-1. Download the latest `PortfolioTracker-vX.Y.Z-Setup.exe` from the table above or the [Releases](https://github.com/davidshuvalov/portfolio-tracker-releases/releases) page.
+1. Download `PortfolioTracker-v2.0.0-Setup.exe` from the table above or the [Releases](https://github.com/davidshuvalov/portfolio-tracker-releases/releases) page.
 2. Double-click the installer.
 3. Choose an install scope:
    - **All users** — installs to `Program Files`
