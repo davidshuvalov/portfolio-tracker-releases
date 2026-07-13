@@ -6,7 +6,7 @@ Official release repository for **Portfolio Tracker 2.0** — a Windows desktop 
 
 | Version | Release date | Installer |
 |---------|--------------|-----------|
-| **v2.0.0** | 2026-07-13 | [PortfolioTracker-v2.0.0-Setup.exe](https://github.com/davidshuvalov/portfolio-tracker-releases/releases/download/v2.0.0/PortfolioTracker-v2.0.0-Setup.exe) |
+| **v2.0.1** | 2026-07-13 | [PortfolioTracker-v2.0.1-Setup.exe](https://github.com/davidshuvalov/portfolio-tracker-releases/releases/download/v2.0.1/PortfolioTracker-v2.0.1-Setup.exe) |
 
 Download from the [Releases](https://github.com/davidshuvalov/portfolio-tracker-releases/releases) page.
 
@@ -18,7 +18,7 @@ Download from the [Releases](https://github.com/davidshuvalov/portfolio-tracker-
 
 ## Install
 
-1. Download `PortfolioTracker-v2.0.0-Setup.exe` from the table above or the [Releases](https://github.com/davidshuvalov/portfolio-tracker-releases/releases) page.
+1. Download `PortfolioTracker-v2.0.1-Setup.exe` from the table above or the [Releases](https://github.com/davidshuvalov/portfolio-tracker-releases/releases) page.
 2. Double-click the installer.
 3. Choose an install scope:
    - **All users** — installs to `Program Files`
@@ -56,7 +56,7 @@ The app integrates directly with MultiWalk project folders — import setup file
 - **PDF exports** — per-strategy and portfolio performance summaries
 - **MultiWalk integration** — setup file import with automatic path rewriting when moving project folders
 
-See [docs/v2.0.0-release-notes.md](docs/v2.0.0-release-notes.md) for the full v2.0.0 release notes and [CHANGELOG.md](CHANGELOG.md) for version history.
+See [docs/v2.0.1-release-notes.md](docs/v2.0.1-release-notes.md) for the full release notes and [CHANGELOG.md](CHANGELOG.md) for version history.
 
 ## Support
 

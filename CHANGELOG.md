@@ -2,6 +2,18 @@
 
 All notable releases of Portfolio Tracker are documented here. Installers are published on the [Releases](https://github.com/davidshuvalov/portfolio-tracker-releases/releases) page.
 
+## [2.0.1] — 2026-07-13
+
+**Initial public release.** First release of Portfolio Tracker 2.0 to licensed users.
+
+[Download](https://github.com/davidshuvalov/portfolio-tracker-releases/releases/download/v2.0.1/PortfolioTracker-v2.0.1-Setup.exe)
+
+See [docs/v2.0.1-release-notes.md](docs/v2.0.1-release-notes.md) for the full release notes.
+
+### Fixed
+
+- Fixed Portfolio at a Glance widget to properly use configured status options
+
 ## [2.0.0] — 2026-07-13
 
 **Initial Portfolio Tracker 2.0 release.** Restarts the release line with a standalone Windows installer.
